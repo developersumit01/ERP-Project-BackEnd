@@ -1,0 +1,1064 @@
+{
+  "212213": {
+    "2113001": {
+      "personalInformation": {
+        "Name": {
+          "name": "Name",
+          "value": "James Butt",
+          "edit": false,
+          "editable": false
+        },
+        "Roll No.": {
+          "name": "Roll No.",
+          "value": "2113001",
+          "edit": false,
+          "editable": false
+        },
+        "Father Name": {
+          "name": "Father Name",
+          "value": "Devin",
+          "edit": false,
+          "editable": false
+        },
+        "Mother Name": {
+          "name": "Mother Name",
+          "value": "Marry",
+          "edit": false,
+          "editable": false
+        },
+        "Gender": {
+          "name": "Gender",
+          "value": "Male",
+          "edit": false,
+          "editable": false
+        },
+        "D.O.B.": {
+          "name": "D.O.B.",
+          "value": "10/11/2000",
+          "edit": false,
+          "editable": false
+        },
+        "Course": {
+          "name": "Course",
+          "value": "Bechlor of Technology",
+          "edit": false,
+          "editable": false
+        },
+        "Section":{
+          "name":"Section",
+          "value":"C",
+          "edit":false,
+          "editable":false
+        },
+        "Branch": {
+          "name": "Branch",
+          "value": "Information Technology",
+          "edit": false,
+          "editable": false
+        }
+      },
+      "acadmicInformation": {
+        "Blood Group": {
+          "name": "Blood Group",
+          "value": "A+",
+          "edit": false,
+          "editable": true
+        },
+        "Date of Admission": {
+          "name": "Date of Admission",
+          "value": "10/11/2021",
+          "edit": false,
+          "editable": false
+        },
+        "Admission Session": {
+          "name": "Admission Session",
+          "value": "2021-22",
+          "edit": false,
+          "editable": false
+        },
+        "Admission Semester": {
+          "name": "Admission Semester",
+          "value": "1",
+          "edit": false,
+          "editable": false
+        },
+        "College": {
+          "name": "College",
+          "value": "Bharat Institute of Technology, Meerut1",
+          "edit": false,
+          "editable": false
+        },
+        "Semester": {
+          "name": "Semester",
+          "value": "6",
+          "edit": false,
+          "editable": false
+        },
+        "Mobile No.": {
+          "name": "Mobile No.",
+          "value": "8439060298",
+          "edit": false,
+          "editable": true
+        },
+        "Email ID": {
+          "name": "Email ID",
+          "value": "jamesbutt@gmail.com",
+          "edit": false,
+          "editable": true
+        },
+        "Address": {
+          "name": "Address",
+          "value": "278 Pocket C, Sector 4C",
+          "edit": false,
+          "editable": true
+        },
+        "Pincode": {
+          "name": "Pincode",
+          "value": "250103",
+          "edit": false,
+          "editable": true
+        },
+        "City": {
+          "name": "City",
+          "value": "Meerut",
+          "edit": false,
+          "editable": false
+        },
+        "State": {
+          "name": "State",
+          "value": "Utter Pradesh",
+          "edit": false,
+          "editable": false
+        },
+        "Country": {
+          "name": "Country",
+          "value": "India",
+          "edit": false,
+          "editable": false
+        },
+        "Addhar No.": {
+          "name": "Addhar No.",
+          "value": "4444 5555 6666",
+          "edit": false,
+          "editable": true
+        },
+        "Home Mobile No.": {
+          "name": "Home Mobile No.",
+          "value": "8411111198",
+          "edit": false,
+          "editable": true
+        }
+      }
+    },
+    "2113002": {
+      "personalInformation": {
+        "Name": {
+          "name": "Name",
+          "value": "Dev",
+          "edit": false,
+          "editable": false
+        },
+        "Roll No.": {
+          "name": "Roll No.",
+          "value": "2113002",
+          "edit": false,
+          "editable": false
+        },
+        "Father Name": {
+          "name": "Father Name",
+          "value": "Harry",
+          "edit": false,
+          "editable": false
+        },
+        "Mother Name": {
+          "name": "Mother Name",
+          "value": "Kerry",
+          "edit": false,
+          "editable": false
+        },
+        "Gender": {
+          "name": "Gender",
+          "value": "Male",
+          "edit": false,
+          "editable": false
+        },
+        "D.O.B.": {
+          "name": "D.O.B.",
+          "value": "10/11/2000",
+          "edit": false,
+          "editable": false
+        },
+        "Course": {
+          "name": "Course",
+          "value": "Bechlor of Technology",
+          "edit": false,
+          "editable": false
+        },
+        "Section":{
+          "name":"Section",
+          "value":"C",
+          "edit":false,
+          "editable":false
+        },
+        "Branch": {
+          "name": "Branch",
+          "value": "Computer Science and Engineering",
+          "edit": false,
+          "editable": false
+        }
+      },
+      "acadmicInformation": {
+        "Blood Group": {
+          "name": "Blood Group",
+          "value": "A+",
+          "edit": false,
+          "editable": true
+        },
+        "Date of Admission": {
+          "name": "Date of Admission",
+          "value": "10/12/2021",
+          "edit": false,
+          "editable": false
+        },
+        "Admission Session": {
+          "name": "Admission Session",
+          "value": "2021-22",
+          "edit": false,
+          "editable": false
+        },
+        "Admission Semester": {
+          "name": "Admission Semester",
+          "value": "1",
+          "edit": false,
+          "editable": false
+        },
+        "College": {
+          "name": "College",
+          "value": "Bharat Institute of Technology, Meerut1",
+          "edit": false,
+          "editable": false
+        },
+        "Semester": {
+          "name": "Semester",
+          "value": "6",
+          "edit": false,
+          "editable": false
+        },
+        "Mobile No.": {
+          "name": "Mobile No.",
+          "value": "8439060298",
+          "edit": false,
+          "editable": true
+        },
+        "Email ID": {
+          "name": "Email ID",
+          "value": "dev@gmail.com",
+          "edit": false,
+          "editable": true
+        },
+        "Address": {
+          "name": "Address",
+          "value": "276 Pocket C, Sector 4C",
+          "edit": false,
+          "editable": true
+        },
+        "Pincode": {
+          "name": "Pincode",
+          "value": "250103",
+          "edit": false,
+          "editable": true
+        },
+        "City": {
+          "name": "City",
+          "value": "Meerut",
+          "edit": false,
+          "editable": false
+        },
+        "State": {
+          "name": "State",
+          "value": "Utter Pradesh",
+          "edit": false,
+          "editable": false
+        },
+        "Country": {
+          "name": "Country",
+          "value": "India",
+          "edit": false,
+          "editable": false
+        },
+        "Addhar No.": {
+          "name": "Addhar No.",
+          "value": "3333 5555 6666",
+          "edit": false,
+          "editable": true
+        },
+        "Home Mobile No.": {
+          "name": "Home Mobile No.",
+          "value": "8422222298",
+          "edit": false,
+          "editable": true
+        }
+      }
+    }
+  },
+  "212210": {
+    "2110001": {
+      "personalInformation": {
+        "Name": {
+          "name": "Name",
+          "value": "Josephine",
+          "edit": false,
+          "editable": false
+        },
+        "Roll No.": {
+          "name": "Roll No.",
+          "value": "2110001",
+          "edit": false,
+          "editable": false
+        },
+        "Father Name": {
+          "name": "Father Name",
+          "value": "Sage",
+          "edit": false,
+          "editable": false
+        },
+        "Mother Name": {
+          "name": "Mother Name",
+          "value": "Lenna",
+          "edit": false,
+          "editable": false
+        },
+        "Gender": {
+          "name": "Gender",
+          "value": "Male",
+          "edit": false,
+          "editable": false
+        },
+        "D.O.B.": {
+          "name": "D.O.B.",
+          "value": "10/11/2000",
+          "edit": false,
+          "editable": false
+        },
+        "Course": {
+          "name": "Course",
+          "value": "Bechlor of Technology",
+          "edit": false,
+          "editable": false
+        },
+        "Section":{
+          "name":"Section",
+          "value":"C",
+          "edit":false,
+          "editable":false
+        },
+        "Branch": {
+          "name": "Branch",
+          "value": "Information Technology",
+          "edit": false,
+          "editable": false
+        }
+      },
+      "acadmicInformation": {
+        "Blood Group": {
+          "name": "Blood Group",
+          "value": "A+",
+          "edit": false,
+          "editable": true
+        },
+        "Date of Admission": {
+          "name": "Date of Admission",
+          "value": "14/11/2021",
+          "edit": false,
+          "editable": false
+        },
+        "Admission Session": {
+          "name": "Admission Session",
+          "value": "2021-22",
+          "edit": false,
+          "editable": false
+        },
+        "Admission Semester": {
+          "name": "Admission Semester",
+          "value": "1",
+          "edit": false,
+          "editable": false
+        },
+        "College": {
+          "name": "College",
+          "value": "Bharat Institute of Technology, Meerut1",
+          "edit": false,
+          "editable": false
+        },
+        "Semester": {
+          "name": "Semester",
+          "value": "6",
+          "edit": false,
+          "editable": false
+        },
+        "Mobile No.": {
+          "name": "Mobile No.",
+          "value": "8439060298",
+          "edit": false,
+          "editable": true
+        },
+        "Email ID": {
+          "name": "Email ID",
+          "value": "josephine@gmail.com",
+          "edit": false,
+          "editable": true
+        },
+        "Address": {
+          "name": "Address",
+          "value": "278 Pocket C, Sector 4C",
+          "edit": false,
+          "editable": true
+        },
+        "Pincode": {
+          "name": "Pincode",
+          "value": "250103",
+          "edit": false,
+          "editable": true
+        },
+        "City": {
+          "name": "City",
+          "value": "Meerut",
+          "edit": false,
+          "editable": false
+        },
+        "State": {
+          "name": "State",
+          "value": "Utter Pradesh",
+          "edit": false,
+          "editable": false
+        },
+        "Country": {
+          "name": "Country",
+          "value": "India",
+          "edit": false,
+          "editable": false
+        },
+        "Addhar No.": {
+          "name": "Addhar No.",
+          "value": "4444 5555 6666",
+          "edit": false,
+          "editable": true
+        },
+        "Home Mobile No.": {
+          "name": "Home Mobile No.",
+          "value": "8411111198",
+          "edit": false,
+          "editable": true
+        }
+      }
+    }
+  },
+  "212240": {
+    "2140001": {
+      "personalInformation": {
+        "Name": {
+          "name": "Name",
+          "value": "Kris",
+          "edit": false,
+          "editable": false
+        },
+        "Roll No.": {
+          "name": "Roll No.",
+          "value": "2140001",
+          "edit": false,
+          "editable": false
+        },
+        "Father Name": {
+          "name": "Father Name",
+          "value": "Yuki",
+          "edit": false,
+          "editable": false
+        },
+        "Mother Name": {
+          "name": "Mother Name",
+          "value": "Alisha",
+          "edit": false,
+          "editable": false
+        },
+        "Gender": {
+          "name": "Gender",
+          "value": "Male",
+          "edit": false,
+          "editable": false
+        },
+        "D.O.B.": {
+          "name": "D.O.B.",
+          "value": "10/11/2000",
+          "edit": false,
+          "editable": false
+        },
+        "Course": {
+          "name": "Course",
+          "value": "Bechlor of Technology",
+          "edit": false,
+          "editable": false
+        },
+        "Section":{
+          "name":"Section",
+          "value":"C",
+          "edit":false,
+          "editable":false
+        },
+        "Branch": {
+          "name": "Branch",
+          "value": "Information Technology",
+          "edit": false,
+          "editable": false
+        }
+      },
+      "acadmicInformation": {
+        "Blood Group": {
+          "name": "Blood Group",
+          "value": "A+",
+          "edit": false,
+          "editable": true
+        },
+        "Date of Admission": {
+          "name": "Date of Admission",
+          "value": "15/10/2021",
+          "edit": false,
+          "editable": false
+        },
+        "Admission Session": {
+          "name": "Admission Session",
+          "value": "2021-22",
+          "edit": false,
+          "editable": false
+        },
+        "Admission Semester": {
+          "name": "Admission Semester",
+          "value": "1",
+          "edit": false,
+          "editable": false
+        },
+        "College": {
+          "name": "College",
+          "value": "Bharat Institute of Technology, Meerut1",
+          "edit": false,
+          "editable": false
+        },
+        "Semester": {
+          "name": "Semester",
+          "value": "6",
+          "edit": false,
+          "editable": false
+        },
+        "Mobile No.": {
+          "name": "Mobile No.",
+          "value": "8439060298",
+          "edit": false,
+          "editable": true
+        },
+        "Email ID": {
+          "name": "Email ID",
+          "value": "kris@gmail.com",
+          "edit": false,
+          "editable": true
+        },
+        "Address": {
+          "name": "Address",
+          "value": "278 Pocket C, Sector 4C",
+          "edit": false,
+          "editable": true
+        },
+        "Pincode": {
+          "name": "Pincode",
+          "value": "250103",
+          "edit": false,
+          "editable": true
+        },
+        "City": {
+          "name": "City",
+          "value": "Meerut",
+          "edit": false,
+          "editable": false
+        },
+        "State": {
+          "name": "State",
+          "value": "Utter Pradesh",
+          "edit": false,
+          "editable": false
+        },
+        "Country": {
+          "name": "Country",
+          "value": "India",
+          "edit": false,
+          "editable": false
+        },
+        "Addhar No.": {
+          "name": "Addhar No.",
+          "value": "4444 5555 6666",
+          "edit": false,
+          "editable": true
+        },
+        "Home Mobile No.": {
+          "name": "Home Mobile No.",
+          "value": "8411111198",
+          "edit": false,
+          "editable": true
+        }
+      }
+    }
+  },
+  "222313": {
+    "2213001": {
+      "personalInformation": {
+        "Name": {
+          "name": "Name",
+          "value": "Bernardo",
+          "edit": false,
+          "editable": false
+        },
+        "Roll No.": {
+          "name": "Roll No.",
+          "value": "2213001",
+          "edit": false,
+          "editable": false
+        },
+        "Father Name": {
+          "name": "Father Name",
+          "value": "Dyan",
+          "edit": false,
+          "editable": false
+        },
+        "Mother Name": {
+          "name": "Mother Name",
+          "value": "Allene",
+          "edit": false,
+          "editable": false
+        },
+        "Gender": {
+          "name": "Gender",
+          "value": "Male",
+          "edit": false,
+          "editable": false
+        },
+        "D.O.B.": {
+          "name": "D.O.B.",
+          "value": "10/11/2000",
+          "edit": false,
+          "editable": false
+        },
+        "Course": {
+          "name": "Course",
+          "value": "Bechlor of Technology",
+          "edit": false,
+          "editable": false
+        },
+        "Section":{
+          "name":"Section",
+          "value":"C",
+          "edit":false,
+          "editable":false
+        },
+        "Branch": {
+          "name": "Branch",
+          "value": "Information Technology",
+          "edit": false,
+          "editable": false
+        }
+      },
+      "acadmicInformation": {
+        "Blood Group": {
+          "name": "Blood Group",
+          "value": "A+",
+          "edit": false,
+          "editable": true
+        },
+        "Date of Admission": {
+          "name": "Date of Admission",
+          "value": "16/10/2022",
+          "edit": false,
+          "editable": false
+        },
+        "Admission Session": {
+          "name": "Admission Session",
+          "value": "2022-23",
+          "edit": false,
+          "editable": false
+        },
+        "Admission Semester": {
+          "name": "Admission Semester",
+          "value": "1",
+          "edit": false,
+          "editable": false
+        },
+        "College": {
+          "name": "College",
+          "value": "Bharat Institute of Technology, Meerut1",
+          "edit": false,
+          "editable": false
+        },
+        "Semester": {
+          "name": "Semester",
+          "value": "6",
+          "edit": false,
+          "editable": false
+        },
+        "Mobile No.": {
+          "name": "Mobile No.",
+          "value": "8439060298",
+          "edit": false,
+          "editable": true
+        },
+        "Email ID": {
+          "name": "Email ID",
+          "value": "bernardo@gmail.com",
+          "edit": false,
+          "editable": true
+        },
+        "Address": {
+          "name": "Address",
+          "value": "278 Pocket C, Sector 4C",
+          "edit": false,
+          "editable": true
+        },
+        "Pincode": {
+          "name": "Pincode",
+          "value": "250103",
+          "edit": false,
+          "editable": true
+        },
+        "City": {
+          "name": "City",
+          "value": "Meerut",
+          "edit": false,
+          "editable": false
+        },
+        "State": {
+          "name": "State",
+          "value": "Utter Pradesh",
+          "edit": false,
+          "editable": false
+        },
+        "Country": {
+          "name": "Country",
+          "value": "India",
+          "edit": false,
+          "editable": false
+        },
+        "Addhar No.": {
+          "name": "Addhar No.",
+          "value": "4444 5555 6666",
+          "edit": false,
+          "editable": true
+        },
+        "Home Mobile No.": {
+          "name": "Home Mobile No.",
+          "value": "8411111198",
+          "edit": false,
+          "editable": true
+        }
+      }
+    }
+  },
+  "222310": {
+    "2210001": {
+      "personalInformation": {
+        "Name": {
+          "name": "Name",
+          "value": "Roxane",
+          "edit": false,
+          "editable": false
+        },
+        "Roll No.": {
+          "name": "Roll No.",
+          "value": "2210001",
+          "edit": false,
+          "editable": false
+        },
+        "Father Name": {
+          "name": "Father Name",
+          "value": "Blair",
+          "edit": false,
+          "editable": false
+        },
+        "Mother Name": {
+          "name": "Mother Name",
+          "value": "Fatima",
+          "edit": false,
+          "editable": false
+        },
+        "Gender": {
+          "name": "Gender",
+          "value": "Male",
+          "edit": false,
+          "editable": false
+        },
+        "D.O.B.": {
+          "name": "D.O.B.",
+          "value": "10/11/2000",
+          "edit": false,
+          "editable": false
+        },
+        "Course": {
+          "name": "Course",
+          "value": "Bechlor of Technology",
+          "edit": false,
+          "editable": false
+        },
+        "Section":{
+          "name":"Section",
+          "value":"C",
+          "edit":false,
+          "editable":false
+        },
+        "Branch": {
+          "name": "Branch",
+          "value": "Information Technology",
+          "edit": false,
+          "editable": false
+        }
+      },
+      "acadmicInformation": {
+        "Blood Group": {
+          "name": "Blood Group",
+          "value": "A+",
+          "edit": false,
+          "editable": true
+        },
+        "Date of Admission": {
+          "name": "Date of Admission",
+          "value": "10/11/2022",
+          "edit": false,
+          "editable": false
+        },
+        "Admission Session": {
+          "name": "Admission Session",
+          "value": "2022-23",
+          "edit": false,
+          "editable": false
+        },
+        "Admission Semester": {
+          "name": "Admission Semester",
+          "value": "1",
+          "edit": false,
+          "editable": false
+        },
+        "College": {
+          "name": "College",
+          "value": "Bharat Institute of Technology, Meerut1",
+          "edit": false,
+          "editable": false
+        },
+        "Semester": {
+          "name": "Semester",
+          "value": "6",
+          "edit": false,
+          "editable": false
+        },
+        "Mobile No.": {
+          "name": "Mobile No.",
+          "value": "8439060298",
+          "edit": false,
+          "editable": true
+        },
+        "Email ID": {
+          "name": "Email ID",
+          "value": "roxane@gmail.com",
+          "edit": false,
+          "editable": true
+        },
+        "Address": {
+          "name": "Address",
+          "value": "278 Pocket C, Sector 4C",
+          "edit": false,
+          "editable": true
+        },
+        "Pincode": {
+          "name": "Pincode",
+          "value": "250103",
+          "edit": false,
+          "editable": true
+        },
+        "City": {
+          "name": "City",
+          "value": "Meerut",
+          "edit": false,
+          "editable": false
+        },
+        "State": {
+          "name": "State",
+          "value": "Utter Pradesh",
+          "edit": false,
+          "editable": false
+        },
+        "Country": {
+          "name": "Country",
+          "value": "India",
+          "edit": false,
+          "editable": false
+        },
+        "Addhar No.": {
+          "name": "Addhar No.",
+          "value": "4444 5555 6666",
+          "edit": false,
+          "editable": true
+        },
+        "Home Mobile No.": {
+          "name": "Home Mobile No.",
+          "value": "8411111198",
+          "edit": false,
+          "editable": true
+        }
+      }
+    }
+  },
+  "222340": {
+    "2240001": {
+      "personalInformation": {
+        "Name": {
+          "name": "Name",
+          "value": "Erick",
+          "edit": false,
+          "editable": false
+        },
+        "Roll No.": {
+          "name": "Roll No.",
+          "value": "2240001",
+          "edit": false,
+          "editable": false
+        },
+        "Father Name": {
+          "name": "Father Name",
+          "value": "Emerson",
+          "edit": false,
+          "editable": false
+        },
+        "Mother Name": {
+          "name": "Mother Name",
+          "value": "Jina",
+          "edit": false,
+          "editable": false
+        },
+        "Gender": {
+          "name": "Gender",
+          "value": "Male",
+          "edit": false,
+          "editable": false
+        },
+        "D.O.B.": {
+          "name": "D.O.B.",
+          "value": "10/11/2000",
+          "edit": false,
+          "editable": false
+        },
+        "Course": {
+          "name": "Course",
+          "value": "Bechlor of Technology",
+          "edit": false,
+          "editable": false
+        },
+        "Section":{
+          "name":"Section",
+          "value":"C",
+          "edit":false,
+          "editable":false
+        },
+        "Branch": {
+          "name": "Branch",
+          "value": "Information Technology",
+          "edit": false,
+          "editable": false
+        }
+      },
+      "acadmicInformation": {
+        "Blood Group": {
+          "name": "Blood Group",
+          "value": "A+",
+          "edit": false,
+          "editable": true
+        },
+        "Date of Admission": {
+          "name": "Date of Admission",
+          "value": "10/9/2022",
+          "edit": false,
+          "editable": false
+        },
+        "Admission Session": {
+          "name": "Admission Session",
+          "value": "2022-23",
+          "edit": false,
+          "editable": false
+        },
+        "Admission Semester": {
+          "name": "Admission Semester",
+          "value": "1",
+          "edit": false,
+          "editable": false
+        },
+        "College": {
+          "name": "College",
+          "value": "Bharat Institute of Technology, Meerut1",
+          "edit": false,
+          "editable": false
+        },
+        "Semester": {
+          "name": "Semester",
+          "value": "6",
+          "edit": false,
+          "editable": false
+        },
+        "Mobile No.": {
+          "name": "Mobile No.",
+          "value": "8439060298",
+          "edit": false,
+          "editable": true
+        },
+        "Email ID": {
+          "name": "Email ID",
+          "value": "erick@gmail.com",
+          "edit": false,
+          "editable": true
+        },
+        "Address": {
+          "name": "Address",
+          "value": "278 Pocket C, Sector 4C",
+          "edit": false,
+          "editable": true
+        },
+        "Pincode": {
+          "name": "Pincode",
+          "value": "250103",
+          "edit": false,
+          "editable": true
+        },
+        "City": {
+          "name": "City",
+          "value": "Meerut",
+          "edit": false,
+          "editable": false
+        },
+        "State": {
+          "name": "State",
+          "value": "Utter Pradesh",
+          "edit": false,
+          "editable": false
+        },
+        "Country": {
+          "name": "Country",
+          "value": "India",
+          "edit": false,
+          "editable": false
+        },
+        "Addhar No.": {
+          "name": "Addhar No.",
+          "value": "4444 5555 6666",
+          "edit": false,
+          "editable": true
+        },
+        "Home Mobile No.": {
+          "name": "Home Mobile No.",
+          "value": "8411111198",
+          "edit": false,
+          "editable": true
+        }
+      }
+    }
+  }
+}

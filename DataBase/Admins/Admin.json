@@ -1,0 +1,116 @@
+{
+  "31032024": {
+    "personalInformation": {
+      "Name": {
+        "name": "Name",
+        "value": "SUMIT KUMAR",
+        "edit": false,
+        "editable": false
+      },
+      "TeachID": {
+        "name": "TeachID",
+        "value": "29022024",
+        "edit": false,
+        "editable": false
+      },
+      "Father Name": {
+        "name": "Hari Prasad",
+        "value": "Ram",
+        "edit": false,
+        "editable": false
+      },
+      "Mother Name": {
+        "name": "Mother Name",
+        "value": "Phool Kumari",
+        "edit": false,
+        "editable": false
+      },
+      "Gender": {
+        "name": "Gender",
+        "value": "Male",
+        "edit": false,
+        "editable": false
+      },
+      "D.O.B.": {
+        "name": "D.O.B.",
+        "value": "10/11/2000",
+        "edit": false,
+        "editable": false
+      }
+    },
+    "acadmicInformation": {
+      "Blood Group": {
+        "name": "Blood Group",
+        "value": "A+",
+        "edit": false,
+        "editable": true
+      },
+      "Date of Joining": {
+        "name": "Date of Joining",
+        "value": "10/11/2000",
+        "edit": false,
+        "editable": false
+      },
+      "Admission Session": {
+        "name": "Admission Session",
+        "value": "1999-2000",
+        "edit": false,
+        "editable": false
+      },
+      "College": {
+        "name": "College",
+        "value": "Bharat Institute of Technology, Meerut1",
+        "edit": false,
+        "editable": false
+      },
+      "Mobile No.": {
+        "name": "Mobile No.",
+        "value": "8439060298",
+        "edit": false,
+        "editable": true
+      },
+      "Email ID": {
+        "name": "Email ID",
+        "value": "ram@gmail.com",
+        "edit": false,
+        "editable": true
+      },
+      "Address": {
+        "name": "Address",
+        "value": "278 Pocket C, Sector 4C",
+        "edit": false,
+        "editable": true
+      },
+      "Pincode": {
+        "name": "Pincode",
+        "value": "250103",
+        "edit": false,
+        "editable": true
+      },
+      "City": {
+        "name": "City",
+        "value": "Meerut",
+        "edit": false,
+        "editable": false
+      },
+      "State": {
+        "name": "State",
+        "value": "Utter Pradesh",
+        "edit": false,
+        "editable": false
+      },
+      "Country": {
+        "name": "Country",
+        "value": "India",
+        "edit": false,
+        "editable": false
+      },
+      "Addhar No.": {
+        "name": "Addhar No.",
+        "value": "4444 5555 6666",
+        "edit": false,
+        "editable": true
+      }
+    }
+  }
+}

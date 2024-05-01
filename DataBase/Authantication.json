@@ -1,0 +1,39 @@
+{
+  "students": {
+    "2113001": {
+      "password": "Sumit@S123",
+      "role": "student"
+    },
+    "2113002": {
+      "password": "Sumit@S123",
+      "role": "student"
+    },
+    "2110001": {
+      "password": "Sumit@S123",
+      "role": "student"
+    },
+    "2140001": {
+      "password": "Sumit@S123",
+      "role": "student"
+    },
+    "2213001": {
+      "password": "Sumit@S123",
+      "role": "student"
+    },
+    "2210001": {
+      "password": "Sumit@S123",
+      "role": "student"
+    },
+    "222340": {
+      "password": "Sumit@S123",
+      "role": "student"
+    }
+  },
+  "teachers": {},
+  "admins": {
+    "29022024": {
+      "password": "Sumit@A123",
+      "role": "admin"
+    }
+  }
+}
