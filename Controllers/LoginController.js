@@ -1,10 +1,12 @@
 const fileS = require("fs");
+const path = require("path");
 
 const loginController = (req, res, user) => {
   try {
     const loginDetails = req.body;
     let auth = undefined;
-    fileS.readFile("./DataBase/Authantication.json", "utf-8", (err, result) => {
+    let authanticationPath = path.join(process.cwd(),'DataBase', 'Authantication.json');
+    fileS.readFile(authanticationPath, "utf-8", (err, result) => {
       auth = JSON.parse(result)[user][loginDetails.userId];
       if (auth && auth.password === loginDetails.password) {
         res.send({ userId: loginDetails.userId, login: true, role: auth.role });
