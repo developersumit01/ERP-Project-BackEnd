@@ -4,13 +4,13 @@ const loginRouts = express.Router();
 const { loginController } = require("../Controllers/LoginController");
 
 loginRouts.post("/", function (req, res) {
-  loginController(req, res, "students");
+  loginController(req, res, "student");
 });
 loginRouts.post("/admin", function (req, res) {
-  loginController(req, res, "admins");
+  loginController(req, res, "admin");
 });
 loginRouts.post("/teacher", function (req, res) {
-  loginController(req, res, "teachers");
+  loginController(req, res, "teacher");
 });
 
 module.exports = loginRouts;

@@ -30,7 +30,8 @@
           "name": "Gender",
           "value": "Male",
           "edit": false,
-          "editable": false
+          "editable": false,
+          "options": ["Male", "Female", "Others"]
         },
         "D.O.B.": {
           "name": "D.O.B.",
@@ -44,17 +45,25 @@
           "edit": false,
           "editable": false
         },
-        "Section":{
-          "name":"Section",
-          "value":"C",
-          "edit":false,
-          "editable":false
+        "Section": {
+          "name": "Section",
+          "value": "C",
+          "edit": false,
+          "editable": false
         },
         "Branch": {
           "name": "Branch",
           "value": "Information Technology",
           "edit": false,
-          "editable": false
+          "editable": false,
+          "options": [
+            "Information Technology",
+            "Computer Science",
+            "Mechanical Engineering",
+            "Civil Engineering",
+            "Electrical Engineering",
+            "Electronic Engineering"
+          ]
         }
       },
       "acadmicInformation": {
@@ -62,7 +71,8 @@
           "name": "Blood Group",
           "value": "A+",
           "edit": false,
-          "editable": true
+          "editable": true,
+          "option":["A+","B+","O+","AB+","A-","B-","O-","AB-"]
         },
         "Date of Admission": {
           "name": "Date of Admission",
@@ -194,17 +204,25 @@
           "edit": false,
           "editable": false
         },
-        "Section":{
-          "name":"Section",
-          "value":"C",
-          "edit":false,
-          "editable":false
+        "Section": {
+          "name": "Section",
+          "value": "C",
+          "edit": false,
+          "editable": false
         },
         "Branch": {
           "name": "Branch",
           "value": "Computer Science and Engineering",
           "edit": false,
-          "editable": false
+          "editable": false,
+          "options": [
+            "Information Technology",
+            "Computer Science",
+            "Mechanical Engineering",
+            "Civil Engineering",
+            "Electrical Engineering",
+            "Electronic Engineering"
+          ]
         }
       },
       "acadmicInformation": {
@@ -212,7 +230,8 @@
           "name": "Blood Group",
           "value": "A+",
           "edit": false,
-          "editable": true
+          "editable": true,
+          "option":["A+","B+","O+","AB+","A-","B-","O-","AB-"]
         },
         "Date of Admission": {
           "name": "Date of Admission",
@@ -332,7 +351,8 @@
           "name": "Gender",
           "value": "Male",
           "edit": false,
-          "editable": false
+          "editable": false,
+          "options": ["Male", "Female", "Others"]
         },
         "D.O.B.": {
           "name": "D.O.B.",
@@ -346,17 +366,25 @@
           "edit": false,
           "editable": false
         },
-        "Section":{
-          "name":"Section",
-          "value":"C",
-          "edit":false,
-          "editable":false
+        "Section": {
+          "name": "Section",
+          "value": "C",
+          "edit": false,
+          "editable": false
         },
         "Branch": {
           "name": "Branch",
           "value": "Information Technology",
           "edit": false,
-          "editable": false
+          "editable": false,
+          "options": [
+            "Information Technology",
+            "Computer Science",
+            "Mechanical Engineering",
+            "Civil Engineering",
+            "Electrical Engineering",
+            "Electronic Engineering"
+          ]
         }
       },
       "acadmicInformation": {
@@ -364,7 +392,8 @@
           "name": "Blood Group",
           "value": "A+",
           "edit": false,
-          "editable": true
+          "editable": true,
+          "option":["A+","B+","O+","AB+","A-","B-","O-","AB-"]
         },
         "Date of Admission": {
           "name": "Date of Admission",
@@ -484,7 +513,8 @@
           "name": "Gender",
           "value": "Male",
           "edit": false,
-          "editable": false
+          "editable": false,
+          "options": ["Male", "Female", "Others"]
         },
         "D.O.B.": {
           "name": "D.O.B.",
@@ -498,17 +528,25 @@
           "edit": false,
           "editable": false
         },
-        "Section":{
-          "name":"Section",
-          "value":"C",
-          "edit":false,
-          "editable":false
+        "Section": {
+          "name": "Section",
+          "value": "C",
+          "edit": false,
+          "editable": false
         },
         "Branch": {
           "name": "Branch",
           "value": "Information Technology",
           "edit": false,
-          "editable": false
+          "editable": false,
+          "options": [
+            "Information Technology",
+            "Computer Science",
+            "Mechanical Engineering",
+            "Civil Engineering",
+            "Electrical Engineering",
+            "Electronic Engineering"
+          ]
         }
       },
       "acadmicInformation": {
@@ -516,7 +554,8 @@
           "name": "Blood Group",
           "value": "A+",
           "edit": false,
-          "editable": true
+          "editable": true,
+          "option":["A+","B+","O+","AB+","A-","B-","O-","AB-"]
         },
         "Date of Admission": {
           "name": "Date of Admission",
@@ -636,7 +675,8 @@
           "name": "Gender",
           "value": "Male",
           "edit": false,
-          "editable": false
+          "editable": false,
+          "options": ["Male", "Female", "Others"]
         },
         "D.O.B.": {
           "name": "D.O.B.",
@@ -650,17 +690,25 @@
           "edit": false,
           "editable": false
         },
-        "Section":{
-          "name":"Section",
-          "value":"C",
-          "edit":false,
-          "editable":false
+        "Section": {
+          "name": "Section",
+          "value": "C",
+          "edit": false,
+          "editable": false
         },
         "Branch": {
           "name": "Branch",
           "value": "Information Technology",
           "edit": false,
-          "editable": false
+          "editable": false,
+          "options": [
+            "Information Technology",
+            "Computer Science",
+            "Mechanical Engineering",
+            "Civil Engineering",
+            "Electrical Engineering",
+            "Electronic Engineering"
+          ]
         }
       },
       "acadmicInformation": {
@@ -668,7 +716,8 @@
           "name": "Blood Group",
           "value": "A+",
           "edit": false,
-          "editable": true
+          "editable": true,
+          "option":["A+","B+","O+","AB+","A-","B-","O-","AB-"]
         },
         "Date of Admission": {
           "name": "Date of Admission",
@@ -788,7 +837,8 @@
           "name": "Gender",
           "value": "Male",
           "edit": false,
-          "editable": false
+          "editable": false,
+          "options": ["Male", "Female", "Others"]
         },
         "D.O.B.": {
           "name": "D.O.B.",
@@ -802,17 +852,25 @@
           "edit": false,
           "editable": false
         },
-        "Section":{
-          "name":"Section",
-          "value":"C",
-          "edit":false,
-          "editable":false
+        "Section": {
+          "name": "Section",
+          "value": "C",
+          "edit": false,
+          "editable": false
         },
         "Branch": {
           "name": "Branch",
           "value": "Information Technology",
           "edit": false,
-          "editable": false
+          "editable": false,
+          "options": [
+            "Information Technology",
+            "Computer Science",
+            "Mechanical Engineering",
+            "Civil Engineering",
+            "Electrical Engineering",
+            "Electronic Engineering"
+          ]
         }
       },
       "acadmicInformation": {
@@ -820,7 +878,8 @@
           "name": "Blood Group",
           "value": "A+",
           "edit": false,
-          "editable": true
+          "editable": true,
+          "option":["A+","B+","O+","AB+","A-","B-","O-","AB-"]
         },
         "Date of Admission": {
           "name": "Date of Admission",
@@ -940,7 +999,8 @@
           "name": "Gender",
           "value": "Male",
           "edit": false,
-          "editable": false
+          "editable": false,
+          "options": ["Male", "Female", "Others"]
         },
         "D.O.B.": {
           "name": "D.O.B.",
@@ -954,17 +1014,25 @@
           "edit": false,
           "editable": false
         },
-        "Section":{
-          "name":"Section",
-          "value":"C",
-          "edit":false,
-          "editable":false
+        "Section": {
+          "name": "Section",
+          "value": "C",
+          "edit": false,
+          "editable": false
         },
         "Branch": {
           "name": "Branch",
           "value": "Information Technology",
           "edit": false,
-          "editable": false
+          "editable": false,
+          "options": [
+            "Information Technology",
+            "Computer Science",
+            "Mechanical Engineering",
+            "Civil Engineering",
+            "Electrical Engineering",
+            "Electronic Engineering"
+          ]
         }
       },
       "acadmicInformation": {
@@ -972,7 +1040,8 @@
           "name": "Blood Group",
           "value": "A+",
           "edit": false,
-          "editable": true
+          "editable": true,
+          "option":["A+","B+","O+","AB+","A-","B-","O-","AB-"]
         },
         "Date of Admission": {
           "name": "Date of Admission",

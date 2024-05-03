@@ -1,7 +1,7 @@
 const fileS = require("fs");
 const path = require("path");
 // { userId: '2113001', password: 'Sumit@S123' }
-const dashboardController = (req, res) => {
+const studentDashboardController = (req, res) => {
   try {
     const loginDetails = req.query;
     const year = loginDetails.userId[0] + loginDetails.userId[1];
@@ -20,5 +20,34 @@ const dashboardController = (req, res) => {
     res.send("Internal Server Error");
   }
 };
-
-module.exports = dashboardController;
+const othersDashboardController = (req, res, role) => {
+  const { userId } = req.query;
+  let newUserId = undefined;
+  let dataBaseFileName = undefined;
+  if (role === "teacher") {
+    newUserId = userId.replace("T", "");
+    dataBaseFileName = path.join(
+      process.cwd(),
+      "DataBase",
+      "Teachers",
+      "TeachersData.json"
+    );
+  } else {
+    newUserId = userId;
+    dataBaseFileName = path.join(
+      process.cwd(),
+      "DataBase",
+      "Admins",
+      "Admin.json"
+    );
+  }
+  try {
+    fileS.readFile(dataBaseFileName, "utf-8", (err, result) => {
+      console.log(result[newUserId])
+      res.send(JSON.parse(result)[newUserId]);
+    });
+  } catch (error) {
+    res.send("Internal Server Error");
+  }
+};
+module.exports = { studentDashboardController, othersDashboardController };

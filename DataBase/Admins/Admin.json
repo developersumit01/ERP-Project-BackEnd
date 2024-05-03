@@ -1,5 +1,5 @@
 {
-  "31032024": {
+  "29022024": {
     "personalInformation": {
       "Name": {
         "name": "Name",
@@ -7,15 +7,15 @@
         "edit": false,
         "editable": false
       },
-      "TeachID": {
-        "name": "TeachID",
+      "Teach. Id.": {
+        "name": "Teach. Id.",
         "value": "29022024",
         "edit": false,
         "editable": false
       },
       "Father Name": {
-        "name": "Hari Prasad",
-        "value": "Ram",
+        "name": "Father Name",
+        "value": "Hari Prasad",
         "edit": false,
         "editable": false
       },
@@ -51,15 +51,15 @@
         "edit": false,
         "editable": false
       },
-      "Admission Session": {
-        "name": "Admission Session",
+      "Joining Session": {
+        "name": "Joining Session",
         "value": "1999-2000",
         "edit": false,
         "editable": false
       },
       "College": {
         "name": "College",
-        "value": "Bharat Institute of Technology, Meerut1",
+        "value": "Bharat Institute of Technology, Meerut",
         "edit": false,
         "editable": false
       },
@@ -71,7 +71,7 @@
       },
       "Email ID": {
         "name": "Email ID",
-        "value": "ram@gmail.com",
+        "value": "sumitkumar84390@gmail.com",
         "edit": false,
         "editable": true
       },

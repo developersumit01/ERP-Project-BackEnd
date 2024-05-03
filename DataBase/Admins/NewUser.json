@@ -1,0 +1,176 @@
+{
+  "student": {
+    "personalInformation": {
+      "Name": {
+        "name": "Name",
+        "value": "",
+        "edit": false,
+        "editable": false,
+        "newData": true
+      },
+      "Roll No.": {
+        "name": "Roll No.",
+        "value": "",
+        "edit": false,
+        "editable": false,
+        "newData": true
+      },
+      "Father Name": {
+        "name": "Father Name",
+        "value": "",
+        "edit": false,
+        "editable": false,
+        "newData": true
+      },
+      "Mother Name": {
+        "name": "Mother Name",
+        "value": "",
+        "edit": false,
+        "editable": false,
+        "newData": true
+      },
+      "Gender": {
+        "name": "Gender",
+        "value": "",
+        "edit": false,
+        "editable": false,
+        "newData": true
+      },
+      "D.O.B.": {
+        "name": "D.O.B.",
+        "value": "",
+        "edit": false,
+        "editable": false,
+        "newData": true
+      },
+      "Course": {
+        "name": "Course",
+        "value": "",
+        "edit": false,
+        "editable": false,
+        "newData": true
+      },
+      "Section": {
+        "name": "Section",
+        "value": "",
+        "edit": false,
+        "editable": false,
+        "newData": true
+      },
+      "Branch": {
+        "name": "Branch",
+        "value": "",
+        "edit": false,
+        "editable": false,
+        "newData": true
+      }
+    },
+    "acadmicInformation": {
+      "Blood Group": {
+        "name": "Blood Group",
+        "value": "",
+        "edit": false,
+        "editable": true,
+        "newData": true
+      },
+      "Date of Admission": {
+        "name": "Date of Admission",
+        "value": "",
+        "edit": false,
+        "editable": false,
+        "newData": true
+      },
+      "Admission Session": {
+        "name": "Admission Session",
+        "value": "",
+        "edit": false,
+        "editable": false,
+        "newData": true
+      },
+      "Admission Semester": {
+        "name": "Admission Semester",
+        "value": "",
+        "edit": false,
+        "editable": false,
+        "newData": true
+      },
+      "College": {
+        "name": "College",
+        "value": "",
+        "edit": false,
+        "editable": false,
+        "newData": true
+      },
+      "Semester": {
+        "name": "Semester",
+        "value": "",
+        "edit": false,
+        "editable": false,
+        "newData": true
+      },
+      "Mobile No.": {
+        "name": "Mobile No.",
+        "value": "",
+        "edit": false,
+        "editable": true,
+        "newData": true
+      },
+      "Email ID": {
+        "name": "Email ID",
+        "value": "",
+        "edit": false,
+        "editable": true,
+        "newData": true
+      },
+      "Address": {
+        "name": "Address",
+        "value": "",
+        "edit": false,
+        "editable": true,
+        "newData": true
+      },
+      "Pincode": {
+        "name": "Pincode",
+        "value": "",
+        "edit": false,
+        "editable": true,
+        "newData": true
+      },
+      "City": {
+        "name": "City",
+        "value": "",
+        "edit": false,
+        "editable": false,
+        "newData": true
+      },
+      "State": {
+        "name": "State",
+        "value": "",
+        "edit": false,
+        "editable": false,
+        "newData": true
+      },
+      "Country": {
+        "name": "Country",
+        "value": "",
+        "edit": false,
+        "editable": false,
+        "newData": true
+      },
+      "Addhar No.": {
+        "name": "Addhar No.",
+        "value": "",
+        "edit": false,
+        "editable": true,
+        "newData": true
+      },
+      "Home Mobile No.": {
+        "name": "Home Mobile No.",
+        "value": "",
+        "edit": false,
+        "editable": true,
+        "newData": true
+      }
+    }
+  }
+}

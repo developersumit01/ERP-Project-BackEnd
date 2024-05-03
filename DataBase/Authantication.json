@@ -1,5 +1,5 @@
 {
-  "students": {
+  "student": {
     "2113001": {
       "password": "Sumit@S123",
       "role": "student"
@@ -29,8 +29,8 @@
       "role": "student"
     }
   },
-  "teachers": {},
-  "admins": {
+  "teacher": {},
+  "admin": {
     "29022024": {
       "password": "Sumit@A123",
       "role": "admin"
