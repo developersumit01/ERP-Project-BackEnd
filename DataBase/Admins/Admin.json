@@ -29,7 +29,8 @@
         "name": "Gender",
         "value": "Male",
         "edit": false,
-        "editable": false
+        "editable": false,
+        "options": ["Male", "Female", "Others"]
       },
       "D.O.B.": {
         "name": "D.O.B.",
@@ -43,7 +44,8 @@
         "name": "Blood Group",
         "value": "A+",
         "edit": false,
-        "editable": true
+        "editable": true,
+        "options": ["A+", "B+", "O+", "AB+", "A-", "B-", "O-", "AB-"]
       },
       "Date of Joining": {
         "name": "Date of Joining",

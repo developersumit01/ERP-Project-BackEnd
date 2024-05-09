@@ -10,7 +10,7 @@ app.use(express.json());
 
 app.use("/login",loginRouts)
 app.use("/:user/dashboard",dashboardRoute)
-app.use("/new",newUserRoute)
+app.use("/:user/new",newUserRoute)
 
 const port = process.env.PORT || 3000;
 app.listen(port, () => console.log(`Listening on port ${port}`));

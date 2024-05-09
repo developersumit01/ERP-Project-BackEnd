@@ -13,7 +13,7 @@
         "value": "",
         "edit": false,
         "editable": false,
-        "newData": true
+        "newData": false
       },
       "Father Name": {
         "name": "Father Name",
@@ -34,7 +34,8 @@
         "value": "",
         "edit": false,
         "editable": false,
-        "newData": true
+        "newData": true,
+        "options": ["Male", "Female", "Others"]
       },
       "D.O.B.": {
         "name": "D.O.B.",
@@ -62,7 +63,15 @@
         "value": "",
         "edit": false,
         "editable": false,
-        "newData": true
+        "newData": false,
+        "options": [
+          "Information Technology",
+          "Computer Science",
+          "Mechanical Engineering",
+          "Civil Engineering",
+          "Electrical Engineering",
+          "Electronic Engineering"
+        ]
       }
     },
     "acadmicInformation": {
@@ -71,14 +80,14 @@
         "value": "",
         "edit": false,
         "editable": true,
-        "newData": true
+        "newData": true,
+        "options": ["A+", "B+", "O+", "AB+", "A-", "B-", "O-", "AB-"]
       },
       "Date of Admission": {
         "name": "Date of Admission",
         "value": "",
         "edit": false,
-        "editable": false,
-        "newData": true
+        "editable": false
       },
       "Admission Session": {
         "name": "Admission Session",
