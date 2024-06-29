@@ -4,7 +4,7 @@ const path = require("path");
 const addNewUserController = (req, res) => {
   const { userRole, recordId, personalInformation, acadmicInformation } =
     req.body;
-  // console.log(personalInformation)
+  console.log("req",req)
   try {
     let studentDataPath = undefined;
     if (userRole === "student") {
@@ -52,6 +52,7 @@ const addNewUserController = (req, res) => {
       //   }
       // });
     });
+    res.send("Data successfuly submited")
   } catch (error) {
     res.send("Internal Server Error");
   }
@@ -59,6 +60,7 @@ const addNewUserController = (req, res) => {
 
 const newUserController = (req, res) => {
   const { option, recordId, branch } = req.query;
+  console.log(branch)
   let rollNo;
   const today = new Date();
   const formattedToday = `${today.getDate()}/${
